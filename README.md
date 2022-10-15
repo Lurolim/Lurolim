@@ -5,10 +5,10 @@
 
 - 🌱 Estudante Ciência da Computação  2/8
 
-<div>
+<div align="center">
   <a href="https://github.com/Lurolim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lurolim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurolim&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 <div  align="center"> 
@@ -22,7 +22,7 @@
    </div>
  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: work.lucas.rolim@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/lucas-rolim-costa-7a7a91213/">
