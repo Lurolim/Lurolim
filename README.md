@@ -5,10 +5,10 @@
 
 - 🌱 Estudante Ciência da Computação  2/8
 
-<div align="center">
+<div>
   <a href="https://github.com/Lurolim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lurolim&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurolim&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lurolim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurolim&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 <div  align="center"> 
