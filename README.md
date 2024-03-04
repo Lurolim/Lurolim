@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonado por tecnologia
 
-- 🌱 Estudante Ciência da Computação  4/8
+- 🌱 Estudante Ciência da Computação  5/8
 
 <div align="center">
   <a href="https://github.com/Lurolim">
