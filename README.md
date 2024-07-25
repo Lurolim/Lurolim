@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Rolim
+## Olá! Eu sou o Lucas Rolim
 
 - 🔭 Apaixonado por tecnologia
   
@@ -17,7 +17,7 @@
 
 <div align="center">
   <div style="display: inline-block; position: relative;">
-    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="z-index: 2; position: absolute; left: 0;">
+    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="margin-right: 20px;">
     <div style="margin-left: 270px;">
       <h1 align="center">Melhores Tecnologias <3</h1>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +30,7 @@
   </div>
  
   <h1 align="center">Redes Sociais</h1>
-  <a href="mailto:work.lucas.rolim@gmail.com">
+  <a href="mailto:rolimlucas018@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
   <a href="https://www.linkedin.com/in/lucas-rolim-costa/">
